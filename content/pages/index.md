@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: CASA MIA BIENES RAICES
+    title: CASAMIA BIENES RAICES
     content: >
       ### CASA MIA es una empresa inmobiliaria con mas de 15 años en el mercado.
       Ofrecemos un servicio personalizado y de calidad para atender todas tus
