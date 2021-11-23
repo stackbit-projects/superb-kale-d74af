@@ -16,7 +16,7 @@ sections:
       En CASA MIA tenemos un grupo de expertos que te podran orientar a
       encontrar la casa de tus sueños
     actions:
-      - label: Contactanos
+      - label: REGISTRATE
         url: /contact
         style: button
   - section_id: recent-posts
