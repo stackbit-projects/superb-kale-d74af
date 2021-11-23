@@ -25,12 +25,6 @@ sections:
         icon_class: dev
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
   - section_id: recent-posts
     type: section_posts
     title: Recent Posts
