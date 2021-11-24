@@ -9,9 +9,6 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >
-      En CASA MIA tenemos un grupo de expertos que te podran orientar a
-      encontrar la casa de tus sueños
     actions:
       - label: REGISTRATE
         url: /contact
