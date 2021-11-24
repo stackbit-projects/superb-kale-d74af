@@ -8,7 +8,7 @@ sections:
       ###
   - section_id: about
     type: section_content
-    title: About
+    title: LAS MEJORES ZONAS PARA INVERTIR EN QUERETARO.
     actions:
       - label: REGISTRATE
         url: /contact
