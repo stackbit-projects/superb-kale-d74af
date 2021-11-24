@@ -4,10 +4,8 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: >
-      ### CASA MIA es una empresa inmobiliaria con mas de 15 años en el mercado.
-      Ofrecemos un servicio personalizado y de calidad para atender todas tus
-      necesidades.
+    content: |
+      ###
   - section_id: about
     type: section_content
     title: About
